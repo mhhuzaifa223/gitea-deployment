@@ -2,7 +2,7 @@
 
 A production deployment of [Gitea](https://about.gitea.com/), a lightweight, self-hosted Git service (open-source alternative to GitHub/GitLab), running on AWS with PostgreSQL, Nginx, SSL, and automated CI/CD.
 
-**Live instance:** gitea.mhhuzaifa.com
+**Live demo:** https://gitea.mhhuzaifa.com
 
 ---
 
