@@ -51,7 +51,7 @@ graph TD
 ## Running locally
 
 ```bash
-git clone https://github.com/mhhuzaifa223-pixel/gitea-deployment.git
+git clone https://github.com/mhhuzaifa223/gitea-deployment.git
 cd gitea-deployment
 docker compose up -d
 ```
